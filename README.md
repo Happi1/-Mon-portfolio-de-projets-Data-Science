@@ -7,5 +7,6 @@ Projets inclus
 - House Price Prediction avec Scikit-Learn
 
 ## Power BI
+- Dashboard analyse de vente
 
 
